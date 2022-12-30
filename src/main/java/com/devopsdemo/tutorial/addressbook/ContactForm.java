@@ -110,7 +110,7 @@ public class ContactForm extends FormLayout {
 
     @Override
     public AddressbookUI getUI() {
-        return (AddressbookUI) super.getUI();
+        return (AddressbookUI) super.getUI()
     }
 
 }
